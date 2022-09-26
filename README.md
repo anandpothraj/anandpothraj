@@ -1,5 +1,5 @@
 - 🔭 I’m currently working as Software Developer at Techsierra.
 - 🌱 I’m currently learning Dart and SQL.
 - 💬 Ask me about React, Javascript, web-development, MERN Stack.
-- 📫 How to reach me: @linkedin/anandpothraj 
+- 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anand-pothraj-599910195/)
 - ⚡ My website : [@anandpothraj](https://anandpothraj.netlify.app/)
