@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/75027034/192985612-37ad01c4-be46-4f77-92d2-ac38cba9baa8.png)
 
-### Hello everyone, I'm Anand Pothraj👦,
-A Software developer🎯 MERN stack developer 🌈.
+### Hello everyone, I'm Anand Pothraj👦💻,
+A Software developer🎯 MERN stack developer 💪🌈.
 
 - 👨‍💻 Full Stack MERN Developer
 - 🔭 I’m currently working as Software Developer at Techsierra.
@@ -25,7 +25,7 @@ A Software developer🎯 MERN stack developer 🌈.
 
 ![](https://komarev.com/ghpvc/?username=anandpothraj)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me 🫂 </h3>
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
