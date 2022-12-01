@@ -28,8 +28,7 @@ A Software developer🎯 MERN stack developer 💪🌈.
 <h3> 🤝🏻 Connect with Me 🫂 </h3>
 
 <p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href=""><img alt="LinkedIn" src=""></a>
+<a href="https://www.linkedin.com/in/anand-pothraj-599910195/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anand%20Pothraj-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:anandpothraj11052001@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandpothraj11052001@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
