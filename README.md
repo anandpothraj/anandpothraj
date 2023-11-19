@@ -3,11 +3,11 @@
 ### Hello everyone, I'm Anand Pothraj👦💻,
 A Software developer🎯 MERN stack developer 💪🌈.
 
-- 👨‍💻 Full Stack MERN Developer
+- 👨‍💻 Learning MERN Development
 - 🔭 I’m currently working as Software Developer at Techsierra.
-- 🌱 I’m currently learning Dart and SQL.
+- 🌱 I’m currently learning MERN stack development and solving DSA.
 - 💬 Ask me about React, Javascript, web-development, MERN Stack.
-- 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anand-pothraj-599910195/)
+- 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anandpothraj/)
 - ⚡ My personal portfolio : [@anandpothraj](https://anandpothraj.netlify.app/)
 
 **Languages:**  
