@@ -3,10 +3,10 @@
 ### Hello everyone, I'm Anand Pothraj👦💻,
 A Full Stack Developer🎯 Software Developer 💪🌈.
 
-- 👨‍💻 Learning MERN Development
+- 👨‍💻 Implementing Microfrontend and Micro services.
 - 🔭 I’m currently working as Software Developer at Techsierra.
-- 🌱 I’m currently learning MERN stack development and solving DSA.
-- 💬 Ask me about React, Javascript, web-development, MERN Stack.
+- 🌱 I’m currently learning Full Stack development and solving DSA.
+- 💬 Ask me about React, Javascript, web-development, Full Stack development.
 - 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anandpothraj/)
 - ⚡ My personal portfolio : [@anandpothraj](https://anandpothraj.netlify.app/)
 
