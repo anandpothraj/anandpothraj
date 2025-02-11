@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/75027034/192985612-37ad01c4-be46-4f77-92d2-ac38cba9baa8.png)
 
 ### Hello everyone, I'm Anand Pothraj👦💻,
-A Software developer🎯 MERN stack developer 💪🌈.
+A Full Stack Developer🎯 Software Developer 💪🌈.
 
 - 👨‍💻 Learning MERN Development
 - 🔭 I’m currently working as Software Developer at Techsierra.
