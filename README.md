@@ -1,16 +1,16 @@
 ![](https://user-images.githubusercontent.com/75027034/192985612-37ad01c4-be46-4f77-92d2-ac38cba9baa8.png)
 
 ### Hello everyone, I'm Anand Pothraj👦💻,
-A Full Stack Developer🎯 Software Developer 💪🌈.
+A Full Stack Developer🎯 Software Development Engineer 💪🌈.
 
-- 👨‍💻 Implementing Microfrontend and Micro services.
-- 🔭 I’m currently working as Software Developer at Techsierra.
-- 🌱 I’m currently learning Full Stack development and solving DSA.
+- 👨‍💻 Building [Kollect](https://kreatorverse.com/kollect/) Powered by Kreatorverse Venture Studios.
+- 🔭 I’m currently working as Product Developer responsible for building end to end application.
+- 🌱 I’m currently learning Web3 development and solving DSA.
 - 💬 Ask me about React, Javascript, web-development, Full Stack development.
 - 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anandpothraj/)
 - ⚡ My personal portfolio : [@anandpothraj](https://anandpothraj.netlify.app/)
 
-**Languages:**  
+**Tech Stacks:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -20,8 +20,8 @@ A Full Stack Developer🎯 Software Developer 💪🌈.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anandpothraj&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandpothraj&theme=tokyonight&layout=compact)
+ <!--![Anand's github stats](https://github-readme-stats.vercel.app/api?username=anandpothraj&theme=tokyonight&show_icons=true&hide=["issues"])-->
+![Top Tech](https://github-readme-stats.vercel.app/api/top-langs/?username=anandpothraj&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=anandpothraj)
 
