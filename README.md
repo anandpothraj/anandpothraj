@@ -3,7 +3,7 @@
 ### Hello everyone, I'm Anand Pothraj👦💻,
 A Full Stack Developer🎯 Software Development Engineer 💪🌈.
 
-- 👨‍💻 Building [Kollect](https://kreatorverse.com/kollect/) Powered by Kreatorverse Venture Studios.
+- 👨‍💻 Building [Zentraa.ai](https://zentraa.ai/) Powered by Vrddhim Martech Ventures & [Kollect](https://kreatorverse.com/kollect/) Powered by Kreatorverse Venture Studios.
 - 🔭 I’m currently working as Product Developer responsible for building end to end application.
 - 🌱 I’m currently learning Web3 development and solving DSA.
 - 💬 Ask me about React, Javascript, web-development, Full Stack development.
