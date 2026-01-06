@@ -8,7 +8,7 @@ A Full Stack AI Developer🎯 Software Development Engineer 💪🌈.
 
 - 👨‍💻 Building [Zentraa.ai](https://zentraa.ai/) Powered by Vrddhim Martech Ventures & [Kollect](https://kreatorverse.com/kollect/) Powered by Kreatorverse Venture Studios.
 - 🔭 I’m currently working as Product Developer responsible for building end to end application.
-- 🌱 I’m currently learning Web3 development and solving DSA.
+- 🌱 I’m currently learning, implementing and developing Agentic AI systems, Web3 and Full Stack Development.
 - 💬 Ask me about AI agentic developement, Full Stack development and Product development.
 - 📫 How to reach me: [@linkedin/anandpothraj](https://www.linkedin.com/in/anandpothraj/)
 - ⚡ My personal portfolio : [@anandpothraj](https://anandpothraj.netlify.app/)
